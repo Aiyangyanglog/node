@@ -1,2 +1,2 @@
-const mod = require("./2.cusmod");
+const mod = require("./2.exports");
 console.log(mod);

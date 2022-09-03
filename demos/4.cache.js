@@ -1,2 +1,2 @@
-require("./2.cusmod");
-require("./2.cusmod");
+require("./2.exports");
+require("./2.exports");
