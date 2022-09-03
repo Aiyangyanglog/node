@@ -1,5 +1,10 @@
 # Node.js 入门到企业 Web 开发中的应用
 
+## Node 是什么？
+
+- Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine (Node.js 是基于 Chrome V8 JavaScript 引擎构建 JavaScript 运行时)
+- Node.js uses an event-driven, asynchronous non-blocking I/O model (Node.js 使用事件驱动的异步非阻塞 I / O 模型)
+
 ## 1.课程目标？
 
 - 从零开始掌握大型互联网公司 NodeJS 实际使用
